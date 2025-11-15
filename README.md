@@ -173,4 +173,14 @@ Body example:
 
 # 🖼️ **Screenshots**
 <img width="1501" height="862" alt="image" src="https://github.com/user-attachments/assets/3bf3dc55-3f41-44c6-bc20-834e6ac62234" />
+<img width="1513" height="880" alt="image" src="https://github.com/user-attachments/assets/7c03a6eb-9402-4421-8d1c-fe3d7d0e74d0" />
+<img width="1458" height="892" alt="image" src="https://github.com/user-attachments/assets/58e7a5c9-6513-4ba1-9036-8f7aa522a86b" />
+<img width="1475" height="869" alt="image" src="https://github.com/user-attachments/assets/f84f7e6f-d8bb-4db6-81d3-028022a8b7a5" />
+<img width="1613" height="853" alt="image" src="https://github.com/user-attachments/assets/3bf8a399-9d9d-4ce7-998a-a25577386b01" />
+<img width="1508" height="876" alt="image" src="https://github.com/user-attachments/assets/52283de6-9b39-4287-8489-0738611e3dae" />
+<img width="1239" height="752" alt="image" src="https://github.com/user-attachments/assets/f65e92d4-668b-44da-a229-088b2fa564cf" />
+
+
+
+
 
