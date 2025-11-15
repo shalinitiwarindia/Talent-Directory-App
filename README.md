@@ -172,4 +172,5 @@ Body example:
 ---
 
 # 🖼️ **Screenshots**
+<img width="1501" height="862" alt="image" src="https://github.com/user-attachments/assets/3bf3dc55-3f41-44c6-bc20-834e6ac62234" />
 
